@@ -57,3 +57,4 @@ To build a reliable machine learning model that can assist in the early detectio
    cd blood-cancer-detection
 
 2. Run the cells of Blood_Cancer_Detection.ipynb
+   
